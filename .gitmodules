@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/shunkei3/shunkei3.r-universe.dev
 	branch = HEAD
-[submodule "test.package"]
-	path = test.package
+[submodule "economics.data.teaching"]
+	path = economics.data.teaching
 	url = https://github.com/Shunkei3/test_package
